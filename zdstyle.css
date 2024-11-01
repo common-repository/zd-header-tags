@@ -1,0 +1,14 @@
+.mainblock { margin-top: 10px; }
+#plugin-left { margin-right: 230px; }
+#plugin-left label { display: block; margin: 0px 0px 6px 0px; }
+#plugin-right { float: right; width: 210px; }
+
+ul.zdinfo { margin: 0px; padding: 0px; list-style-type: none; }
+ul.zdinfo li { padding: 0px 0px 0px 20px; margin: 0px 0px 6px 0px; height: 20px; }
+ul.zdinfo li a { line-height: 20px; text-decoration: none; }
+ul.zdinfo li a:hover { text-decoration: underline; }
+ul.zdinfo li.fb { background-image: url(http://images.proloy.me/wp/fb.png); background-position: center left; background-repeat: no-repeat; }
+ul.zdinfo li.ms { background-image: url(http://images.proloy.me/wp/ms.png); background-position: center left; background-repeat: no-repeat; }
+ul.zdinfo li.tw { background-image: url(http://images.proloy.me/wp/tw.png); background-position: center left; background-repeat: no-repeat; }
+ul.zdinfo li.lin { background-image: url(http://images.proloy.me/wp/lin.png); background-position: center left; background-repeat: no-repeat; }
+ul.zdinfo li.plx { background-image: url(http://images.proloy.me/wp/plx.png); background-position: center left; background-repeat: no-repeat; }
